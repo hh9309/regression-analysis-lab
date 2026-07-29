@@ -1,0 +1,6 @@
+{
+  "name": "回归分析与数据拟合智能实验室",
+  "description": "交互式一元OLS回归分析与数据拟合平台，包含拖拽沙盒、Anscombe四重奏、残差四联诊断图、Python代码仿真与AI智能决策引擎。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
